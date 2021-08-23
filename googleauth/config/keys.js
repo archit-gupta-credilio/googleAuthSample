@@ -10,5 +10,5 @@ module.exports = {
 
     session:{
         cookieKey:'khsbdciubshdchju'
-    }
+    }  
 }
